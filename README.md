@@ -25,3 +25,27 @@ How to install STM32 CubeProgrammer inside Mac: https://stackoverflow.com/questi
 
 ## Navigation
 - Program STM32 [HERE] (https://www.sgbotic.com/index.php?dispatch=pages.view&page_id=48)
+- Drone STM32 [HERE] ()
+
+## Development Steps
+- [ ] Harware procurements
+  - [x] Frame
+  - [x] Stm32 board
+  - [x] Motor + ESC
+  - [ ] IMU MPU-6050
+  - [ ] LED
+  - [ ] PCB protoboard
+  - [ ] Resistor
+  - [ ] Battery
+  - [ ] Battery connector
+  - [ ] Battery charger
+  - [ ] RC transmitter and receiver
+- [ ] (SW) Basic of STM32
+  - [ ] Getting started with STM32 (blink)
+  - [ ] STM32 + MPU-6050
+  - [ ] STM32 + RC Receiver
+  - [ ] STM32 + ESC
+- [ ] PCB drawing 
+- [ ] (Assem) PCB board design & build
+- [ ] (Test) manual flight test
+- [ ] Prop Jig Build
